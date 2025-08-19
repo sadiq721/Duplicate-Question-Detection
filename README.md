@@ -38,11 +38,12 @@ Source: [Kaggle - Quora Question Pairs](https://www.kaggle.com/c/quora-question-
 
 ## ⚙ Technologies Used
 
-- Python
-- Jupyter Notebook
-- Natural Language Processing (NLP)
-- Machine Learning (Logistic Regression)
-- *Libraries:* Pandas, NumPy, Scikit-Learn
+- Python 🐍
+- Jupyter Notebook 📒
+- Natural Language Processing (NLP) 🗣️
+- Machine Learning (Logistic Regression) 🤖
+- Libraries:
+  - Pandas, NumPy, Scikit-Learn
 
 ---
 
@@ -79,6 +80,16 @@ It's like a smart friend who helps you avoid repeating yourself!
 
 ---
 
+## 📂 Project Structure
+
+```
+📁 Duplicate Question Detection.ipynb   # Main code in Jupyter Notebook
+📄 AI-ClientProject-4.pdf    # Project summary and business case
+📄 best_model.pkl    # Saved the best model
+📄 README.md                 # You are here
+```
+
+---
 
 
 
